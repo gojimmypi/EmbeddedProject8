@@ -22,4 +22,4 @@ Here's the result in VisualGDB:
 Note how the libraries are not found by the compiler.
 
 Here's another view of the code:
-![alt text](EmbeddedProject8/images/VisualGDB-LibNotFound.PNG)
+![alt text](https://github.com/gojimmypi/EmbeddedProject8/blob/master/images/VisualGDB-LibNotFound.PNG)
