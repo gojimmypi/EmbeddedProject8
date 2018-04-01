@@ -1,6 +1,6 @@
 # EmbeddedProject8
 
-This is a supplmentary project to the sysprogs VisualGDB support message for Feedback for VisualGDB 5.4 Preview 1 with support for Advanced ESP-ID
+This is a supplmentary project to the sysprogs VisualGDB support message for Feedback for VisualGDB 5.4 Preview 1 with support for Advanced ESP-IDF
 
 https://sysprogs.com/w/forums/topic/feedback-for-visualgdb-5-4-preview-1-with-support-for-advanced-esp-idf/
 
