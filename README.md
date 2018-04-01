@@ -20,3 +20,6 @@ Here's the result in VisualGDB:
 ![alt text](https://github.com/gojimmypi/EmbeddedProject8/blob/master/images/Lib1Lib2.PNG)
 
 Note how the libraries are not found by the compiler.
+
+Here's another view of the code:
+![alt text](EmbeddedProject8/images/VisualGDB-LibNotFound.PNG)
