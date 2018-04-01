@@ -12,6 +12,9 @@
 #include "driver/gpio.h"
 #include "sdkconfig.h"
 
+#include "LibraryOneCode.h"
+#include "LibraryTwoCode.h"
+
 /* Can run 'make menuconfig' to choose the GPIO to blink,
    or you can edit the following line and set a number here.
 */
